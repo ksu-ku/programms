@@ -1,0 +1,72 @@
+{
+  "themes":
+    {
+      "family":
+        {
+          "name": "Семья",
+          "word": ["мама", "папа", "жена", "муж", "супруга(а)", "дочь", "сын", "сестра", "брат", "бабушка",
+            "дедушка", "внук", "внучка", "прабабушка", "прадедушка", "тётя", "дядя", "крёстный отец", "крёстная мать",
+            "отчим", "мачеха", "приёмный сын", "приёмная дочь", "свекровь", "свёкр", "тёща", "тесть", "сноха", "зять",
+            "шурин", "золовка"],
+          "translation": ["mother", "father", "wife", "husband", "spouse", "daughter", "son", "sister", "brother",
+            "grandmother", "grandfather", "grandson", "granddaughter", "great-grandmother", "great-grandfather",
+            "aunt", "uncle", "godfather", "godmother", "stepfather", "stepmother", "adopted son", "adopted daughter",
+            "mother-in-low", "father-in-low", "mother-in-low", "father-in-low", "daughter-in-low", "son-in-low",
+            "brother-in-low", "sister-in-low"],
+          "transcription": ["[ˈmʌðə]", "[ˈfɑːðə]", "[waɪf]", "[ˈhʌzbənd]", "[spaʊz]", "[ˈdɔːtə]", "[sʌn]", "[ˈsɪstə]",
+            "[ˈbrʌðə]", "[ˈɡræn ˌmʌðə]", "[ˈɡrænfɑːðə]", "[ˈˈɡrænsʌn]", "[ˈɡrændɔːtə]", "[ˈɡreɪt ˈɡræn ˌmʌðə]",
+            "[ˈɡreɪtˈɡrændˌfɑːðə]", "[ɑːnt]", "[ˈʌŋkəl]", "[ˈɡɒdfɑːðə]", "[ˈɡɒdmʌðə]", "[ˈstepfɑːðə]", "[ˈstepmʌðə]",
+            "[əˈdɒptɪd sʌn]", "[əˈdɒptɪd ˈdɔːtə]", "[ˈmʌðər ɪnˌlɔː]", "[ˈfɑːðər ɪnˌlɔː]", "[ˈmʌðər ɪnˌlɔː]",
+            "[ˈfɑːðər ɪnˌlɔː]", "[ˈdɔːtərɪnˌlɔː]", "[ˈˈsʌnɪnˌlɔː]", "[ˈbrʌðərɪnˌlɔː]", "[ˈsɪstərɪnˌlɔː]"],
+          "list": "1. мама - mother\n2. папа - father\n3. жена - wife\n4. муж - husband\n5. супруг(а) - spouse\n6. дочь - daughter\n7. сын - son\n8. сестра - sister\n9. брат - brother\n10. бабушка - grandmother\n11. дедушка - grandfather\n12. внук - grandson\n13. внучка - granddaughter\n14. прабабушка - great-grandmother\n15. прадедушка - great-grandfather\n16. тётя - aunt\n17. дядя - uncle\n18. крёстный отец - godfather\n19. крёстная мать - godmother\n20. отчим - stepfather\n21. мачеха - stepmother\n22. приёмный сын - adopted son\n23. приёмная дочь - adopted daughter\n24. свекровь - mother-in-low\n25. свёкр - father-in-low\n26. тёща - mother-in-law\n27. тесть - father-in-low\n28. сноха - daughter-in-low\n29. зять - son-in-low\n30. шурин - brother-in-low\n31. золовка - sister-in-low",
+          "numbers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18","19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31"]
+        },
+      "appearance":
+        {
+          "name": "Внешность",
+          "word": ["дугой (брови)", "лысый", "густой (о бровях)", "близко посаженный (о глазах)",
+            "стриженный (о голове)", "кудрявый (о волосах)", "глубоко посаженный (о глазах)", "ямочки (на щеках)",
+            "тусклый взгляд", "румянец", "(нос) крючком", "бледный (о коже)",
+            "оттопыренный (об ухе)", "белоснежный (о зубах)", "жидкий (о волосах)", "пышный (о волосах)",
+            "вздернутый (нос)", "тяжелый взгляд", "волнистый (о волосах)"],
+          "translation": ["arched", "bald", "bushy", "close-set", "cropped", "curly", "deep-set", "dimples", "dull glance",
+            "flush", "hooked", "pale", "prominent", "snow-white", "sparse", "splendid", "turned up",
+            "unpleasant look in one's eyes", "wavy"],
+          "transcription": ["[ɑːtʃt]", "[bɔːld]", "[ˈbʊʃi]", "[ˈkləʊs set]", "[krɒpt]", "[ˈkɜːli]", "[diːp set]",
+            "[ˈdɪmpl̩z]", "[dʌl ɡlɑːns]", "[flʌʃ]", "[hʊkt]", "[peɪl]", "[ˈprɒmɪnənt]", "[ˈsnəʊ waɪt]", "[spɑːs]",
+            "[ˈsplendɪd]", "[tɜːnd ʌp]", "[ʌnˈpleznt lʊk ɪn wʌnz aɪz]", "[ˈweɪvi]"],
+          "list": "1. дугой (брови) - arched\n2. лысый - bald\n3. густой (о бровях) - bushy\n4. близко посаженный (о глазах) - close-set\n5. стриженный (о голове) - cropped\n6. кудрявый (о волосах) - curly\n7. глубоко посаженный (о глазах) - deep-set\n8. ямочки (на щеках) - dimples\n9. тусклый взгляд - dull glance\n10. румянец - flush\n11. (нос) крючком - hooked\n12. бледный (о коже) - pale\n13. оттопыренный (об ухе) - prominent\n14. белоснежный (о зубах) - snow-white\n15. жидкий (о волосах) - sparse\n16. пышный (о волосах) - splendid\n17. вздернутый (нос) - turned up\n18. тяжелый взгляд - unpleasant look in one's eyes\n19. волнистый (о волосах) - wavy",
+          "numbers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18","19"]
+        },
+      "food":
+        {
+          "name": "Еда",
+          "word": ["ананас", "арбуз", "баклажан", "баранина", "блин", "ветчина", "горчица", "грецкий орех", "дыня",
+            "желток", "изюм", "имбирь", "инжир", "корица", "кукуруза", "петрушка", "слива", "смородина", "форель",
+            "фарш", "чеснок"],
+          "translation": ["pineapple", "watermelon", "aubergine", "mutton", "pancake", "ham", "mustard", "walnut",
+            "melon", "(egg) yolk", "raisins", "ginger", "fig", "cinnamon", "maize", "parsley", "plum", "currants",
+            "trout", "stuffing", "garlic"],
+          "transcription": ["[ˈpʌɪnap(ə)l]", "[ˈwɔːtəmɛlən]", "[ˈəʊbəʒiːn]", "[ˈmʌt(ə)n]", "[ˈpankeɪk]", "[hæm]",
+            "[ˈmʌstəd]", "[ˈwɔːlnʌt]", "[ˈmɛlən]", "[jəʊk]", "[ˈreɪzənz]", "[ˈdʒɪndʒə]", "[fɪɡ]", "[ˈsɪnəmən]",
+            "[meɪz]", "[ˈpɑːsli]", "[plʌm]", "[ˈkʌrənts]", "[traʊt]", "[ˈstʌfɪŋ]", "[ˈɡɑːlɪk]"],
+          "list": "1. ананас - pineapple\n2. арбуз - watermelon\n3. баклажан - aubergine\n4. баранина - mutton\n5. блин - pancake\n6. ветчина - ham\n7. горчица - mustard\n8. грецкий орех - walnut\n9. дыня - melon\n10. желток - (egg) yolk\n11. изюм - raisins\n12. имбирь - ginger\n13. инжир - fig\n14. корица - cinnamon\n15. кукуруза - maize\n16. петрушка - parsley\n17. слива - plum\n18. смородина - currants\n19. форель - trout\n20. фарш - stuffing\n21. чеснок - garlic",
+          "numbers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18","19", "20", "21"]
+        },
+      "animals":
+        {
+          "name": "Животные",
+          "word": ["баран", "барсук", "бобр", "бык", "вол", "гадюка", "ёж", "заяц", "козлёнок", "куропатка", "лось",
+            "морская свинка", "носорог", "рысь", "телёнок", "тюлень", "хорёк", "белка", "дикий кабан", "крыса",
+            "кролик", "морская звезда"],
+          "translation": ["ram", "badger", "beaver", "bull", "ox", "viper", "hedgehog", "hare", "kid", "partridge",
+            "elk", "guinea pig", "rhino, rhinoceros", "lynx", "calf", "seal", "ferret", "squirrel", "wild boar", "rat",
+            "rabbit", "starfish"],
+          "transcription": ["[ræm]", "[ˈbædʒə]", "[ˈbiːvə]", "[bʊl]", "[ɒks]", "[ˈvaɪpə]", "[ˈhedʒhɒɡ]", "[heə]",
+            "[kɪd]", "[ˈpɑːtrɪdʒ]", "[elk]", "[ˈɡɪni pɪɡ]", "[ˈraɪnəʊ] [raɪˈnɒsərəs]", "[lɪŋks]", "[kɑːf]", "[siːl]",
+            "[ˈferɪt]", "[ˈskwɪrəl]", "[waɪld bɔː]", "[ræt]", "[ˈræbɪt]", "[ˈstɑːfɪʃ]"],
+          "list": "1. баран - ram\n2. барсук - badger\n3. бобр - beaver\n4. бык - bull\n5. вол - ox\n6. гадюка - viper\n7. ёж - hedgehog\n8. заяц - hare\n9. козлёнок - kid\n10. куропатка - partridge\n11. лось - elk\n12. морская свинка - guinea pig\n13. носорог - rhino, rhinoceros\n14. рысь - lynx\n15. телёнок - calf\n16. тюлень - seal\n17. хорёк - ferret\n18. белка - squirrel\n19. дикий кабан - wild boar\n20. крыса - rat\n21. кролик - rabbit\n22. морская звезда - starfish",
+          "numbers": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18","19", "20", "21", "22"]
+        }
+    }
+}
